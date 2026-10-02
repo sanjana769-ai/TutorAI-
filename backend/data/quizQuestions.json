@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ds-queue-001",
+    "question": "Which data structure follows the FIFO principle?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Queue",
+    "topic": "Queues",
+    "conceptName": "Queue",
+    "subject": "Data Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ds-binary-search-001",
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(n²)", "O(log n)", "O(1)"],
+    "answer": "O(log n)",
+    "topic": "Searching",
+    "conceptName": "Binary Search",
+    "subject": "Data Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "ds-tree-traversal-001",
+    "question": "Which traversal visits the root node first?",
+    "options": ["Inorder", "Postorder", "Preorder", "Level order"],
+    "answer": "Preorder",
+    "topic": "Trees",
+    "conceptName": "Tree Traversal",
+    "subject": "Data Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "dbms-select-001",
+    "question": "Which SQL command is used to retrieve data?",
+    "options": ["INSERT", "UPDATE", "SELECT", "DELETE"],
+    "answer": "SELECT",
+    "topic": "SQL",
+    "conceptName": "SQL SELECT",
+    "subject": "DBMS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "os-cpu-001",
+    "question": "Which component is responsible for executing instructions?",
+    "options": ["RAM", "CPU", "Hard Disk", "Monitor"],
+    "answer": "CPU",
+    "topic": "Operating Systems",
+    "conceptName": "CPU",
+    "subject": "Operating Systems",
+    "difficulty": "Easy"
+  }
+]
